@@ -1,5 +1,5 @@
 # noteapp
-# A simple "note app" for taking notes using localstoraga
+# A simple "note app" for taking notes using localstorage
 The app store data in your browser Localstorage, no database involved.
 
 ## Instructions
